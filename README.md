@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Chaudhuri
 - 👀 I’m interested in Python, C , Machine learning, linux.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on projects to help develop and enhance my knowledge.
 - 📫 How to reach me can contact me at sohamchaudhuri25@gmail.com
 
