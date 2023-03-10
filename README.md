@@ -1,18 +1,15 @@
-- 👋 Hi, I’m @S-Chaudhuri
-- 👀 I’m interested in Python, C , Machine learning, linux.
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on projects to help develop and enhance my knowledge.
-- 📫 How to reach me can contact me at sohamchaudhuri25@gmail.com
+
 <!-- Introduction with Bouncing Animation -->
-<h1 align="center" style="animation: bounce 2s ease infinite;">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="center" style="animation: bounce 2s ease infinite;">Hi there! I'm Soham 👋</h1>
 
 <!-- Skills and Interests -->
 <h2>🌟 Skills and Interests</h2>
 <ul>
-  <li>[Skill 1]</li>
-  <li>[Skill 2]</li>
-  <li>[Skill 3]</li>
-  <li>[etc.]</li>
+  <li>- 👋 Hi, I’m @S-Chaudhuri </li>
+  <li>- 👀 I’m interested in Python, C , Machine learning, linux.</li>
+  <li>- 🌱 I’m currently learning Deep learning</li>
+  <li>- 💞️ I’m looking to collaborate on projects to help develop and enhance my knowledge.</li>
+<li>- 📫 How to reach me can contact me at sohamchaudhuri25@gmail.com</li>
 </ul>
 <p>When I'm not coding, you can find me [Interest 1], [Interest 2], or [Interest 3].</p>
 
