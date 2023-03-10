@@ -1,71 +1,40 @@
+<div style="background-image:url(''); background-size:cover;">
+<!-- Header -->
+<h1 align="center">Hi there, I'm Soham Chaudhuri 👋</h1>
+<h3 align="center">Student | Developer | Writer</h3>
 
-<!-- Introduction with Bouncing Animation -->
-<h1 align="center" style="animation: bounce 2s ease infinite;">Hi there! I'm Soham 👋</h1>
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/soham-chaudhuri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<!-- Skills and Interests -->
-<h2>🌟 Skills and Interests</h2>
-<ul>
-  <li>- 👋 Hi, I’m @S-Chaudhuri </li>
-  <li>- 👀 I’m interested in Python, C , Machine learning, linux.</li>
-  <li>- 🌱 I’m currently learning Deep learning</li>
-  <li>- 💞️ I’m looking to collaborate on projects to help develop and enhance my knowledge.</li>
-<li>- 📫 How to reach me can contact me at sohamchaudhuri25@gmail.com</li>
-</ul>
-<p>When I'm not coding, you can find me [Interest 1], [Interest 2], or [Interest 3].</p>
+<!-- About Me -->
+<p align="center">I am a Computer Science and Engineering student, passionate about designing and developing innovative solutions. I have experience in data science, machine learning and python development.</p>
 
-<!-- Projects -->
-<h2>🚀 Projects</h2>
-<p>Here are some of the projects that I've worked on recently:</p>
+<!-- Skills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/-Mac-999999?style=flat&logo=apple&logoColor=white" alt="Mac">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
+</p>
 
-<ul>
-  <li><a href="[Link to Project 1]">[Project 1 Name]</a></li>
-  <li><a href="[Link to Project 2]">[Project 2 Name]</a></li>
-  <li><a href="[Link to Project 3]">[Project 3 Name]</a></li>
-  <li>[etc.]</li>
-</ul>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Chaudhuri&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-<!-- Color Scheme -->
-<h2>🎨 Color Scheme</h2>
-<p>You can customize the color scheme of your README file using CSS. Here's an example of a custom color scheme that you can add to your README file:</p>
-
-<style>
-  body {
-    background-color: #282c34;
-    color: #ffffff;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #61dafb;
-  }
-
-  a {
-    color: #61dafb;
-  }
-
-  /* Bouncing animation */
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-  }
-
-  h1 {
-    animation: bounce 2s ease infinite;
-  }
-</style>
-
-<!-- Animations -->
-<h2>🎉 Animations</h2>
-<p>You can add animations to your README file using various tools like <a href="https://lottiefiles.com/">Lottie</a>, <a href="https://giphy.com/">GIFs</a>, <a href="https://www.w3schools.com/css/css3_animations.asp">CSS animations</a>, etc. For example, here's a Lottie animation that you can add to your README file:</p>
-
-<div align="center">
-  <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_fwg7ydlu.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
-</div>
-
-<!-- Customization -->
-<h2>🔧 Customization</h2>
-<p>You can customize this README template by replacing the placeholder text with your own information, and by adjusting the CSS styles and animations as desired.</p>
-
-<!---
-S-Chaudhuri/S-Chaudhuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chaudhuri&layout=compact&theme">
+  </div>
