@@ -9,7 +9,7 @@
 </p>
 
 <!-- About Me -->
-<p align="center">I am a Computer Science and Engineering student, passionate about designing and developing innovative solutions. I have experience in data science, machine learning and python development.</p>
+<p align="center">I am a Artificial Intelligence Engineering student, passionate about designing and developing innovative solutions. I have experience in data science, machine learning and python development.</p>
 
 <!-- Skills -->
 <p align="center">
