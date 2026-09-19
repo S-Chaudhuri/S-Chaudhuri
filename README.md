@@ -2,42 +2,32 @@
 
 # Soham Chaudhuri
 
-**M.Sc. Artificial Intelligence @ University of Amsterdam**
-Medical AI Research Intern @ IARC (World Health Organization)
+**Machine learning researcher & engineer**
+Computer vision · generative models · speech · and the evaluation of all three
 
 <a href="ADD_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 <a href="https://www.linkedin.com/in/soham-chaudhuri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:sohamchaudhuri25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<br>
-
-<img src="https://img.shields.io/badge/MICCAI-2026-8A2BE2?style=flat-square&labelColor=1a1a1a" alt="MICCAI 2026">
-<img src="https://img.shields.io/badge/TMLR-published-00875A?style=flat-square&labelColor=1a1a1a" alt="TMLR">
-<img src="https://img.shields.io/badge/IEEE-Sensors_Letters-00629B?style=flat-square&labelColor=1a1a1a" alt="IEEE Sensors Letters">
-<img src="https://img.shields.io/badge/NeurIPS-under_review-D62828?style=flat-square&labelColor=1a1a1a" alt="NeurIPS">
-<img src="https://img.shields.io/badge/patents-2_filed-F4A261?style=flat-square&labelColor=1a1a1a" alt="Patents">
-
 </div>
 
 <br>
 
-> Machine learning across computer vision, speech, generative modelling and reinforcement learning, with applied work in clinical research and quantitative finance. Most of my published work sits in medical imaging and domain adaptation — though what I keep coming back to is **evaluation**: how you know a model is actually good, and where it quietly stops being good.
+I build and evaluate models across computer vision, speech, generative modelling and reinforcement learning, with applied work in clinical research and quantitative finance.
 
----
+I like problems with something real pushing back — a model that has to run on a small device, or one that has to hold up across a corpus far too large to eyeball. Scarcity and scale are interesting for the same reason: neither lets you hand-wave.
 
-## 📄 Publications
-
-| | Paper | Venue | Code |
-|:--|:--|:--|:--|
-| 🥇 | What a Frozen Foundation Model Already Knows about the Critical View of Safety | **MICCAI 2026** · SafeSurg | [`↗`](https://github.com/S-Chaudhuri/Critical-View-of-Safety) |
-| | Revisiting "Edit Away and My Face Will Not Stay": Personal Biometric Defense against Malicious Generative Editing | **TMLR** | [`↗`](https://github.com/Luizerko/revisiting_facelock) |
-| 🥇 | KGAN-based Semi-supervised Domain-Adapted Human Activity Recognition | **IEEE Sensors Letters** | [`↗`](https://github.com/S-Chaudhuri/KGAN-Human-Activity-Recognition) |
-| | How Geometry Shapes Generative Model Evaluation on Riemannian Manifolds | **NeurIPS** GDDL · under review | [`↗`](https://github.com/S-Chaudhuri/Spherical-Flow-Matching) |
-| 🥇 | Comparison of Wav2Vec2 and HuBERT Models Based on Word Error Rate | Technix Int. J. · 2024 | [`↗`](https://github.com/S-Chaudhuri/Erratic-Audio-Data-Effects-on-Wav2Vec2-and-Hubert) |
-
-<sub>🥇 = first or co-first author</sub>
-
----
+## 🤝 Let's collaborate
+ 
+**I show people the rough version.** Quick ugly baseline, shared before it's presentable. A half-built thing someone can react to beats a polished thing built on an assumption nobody checked.
+ 
+**I ask the obvious question.** Cheerfully, and twice if needed. Thirty seconds of looking slow costs less than a fortnight on the wrong problem — and usually someone else in the room was wondering too.
+ 
+**I work backwards from whoever has to use it.** A number isn't an outcome. Somebody acts on it, under time pressure, without reading the methods section. That belongs in the conversation on day one, not at the write-up.
+ 
+**I love to discuss.** Most of the useful corrections I've had came from clinicians, statisticians and quants who didn't share my priors. Change my mind and I'll say so out loud.
+ 
+If that sounds like a fit — [say hello](mailto:sohamchaudhuri25@gmail.com). I'm always up for a conversation about a problem I don't know anything about yet.
 
 ## 🛠 Stack
 
@@ -62,23 +52,12 @@ Medical AI Research Intern @ IARC (World Health Organization)
 ---
 
 <details>
-<summary><b>🔬 What I'm working on</b></summary>
+<summary><b>🔬 Some of the things I've worked on</b></summary>
 
 <br>
 
-**IARC (WHO)** — an offline, hand-held sonography model for breast screening in low-resource settings. Constrained hardware, no connectivity, real clinical throughput.
+**Medical imaging** — offline sonography models for breast screening on hand-held hardware; oral-cancer classification; unsupervised cancer detection; X-ray enhancement with DCGAN and pix2pix.
 
-**UvA** — generative model evaluation on Riemannian manifolds, and real-time monitors built on frozen foundation models.
+**Foundation models & evaluation** — real-time monitors built on frozen backbones; generative model evaluation on Riemannian manifolds; speech-model robustness under corrupted audio.
 
-**Pushpanjali Cancer Centre** — data pipelines and statistical analysis for oncology outcome studies.
-
-</details>
-
-<details>
-<summary><b>🗂 Other work</b></summary>
-
-<br>
-
-Parkinson's prediction with ensemble methods · DCGAN and pix2pix for X-ray enhancement · WiFi-CSI liquid neural networks · unsupervised cancer detection · Bayesian Q-learning under the uncertain Bellman equation · equity forecasting with Bi-LSTM and CNN-LSTM · neural networks from scratch in C++ · multilingual NLP
-
-</details>
+**Sequence & signal** — human activity recognition under domain shift; WiFi-CSI liquid neural networks; equity forecasting with Bi-LSTM and CNN-LSTM.
