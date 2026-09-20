@@ -15,7 +15,7 @@ Computer vision · generative models · speech · and the evaluation of all thre
 
 I build and evaluate models across computer vision, speech, generative modelling and reinforcement learning, with applied work in clinical research and quantitative finance.
 
-I like problems with something real pushing back — a model that has to run on a small device, or one that has to hold up across a corpus far too large to eyeball. Scarcity and scale are interesting for the same reason: neither lets you hand-wave.
+I like problems with something real pushing back a model that has to run on a small device, or one that has to hold up across a corpus far too large to eyeball. Scarcity and scale are interesting for the same reason: neither lets you hand-wave.
 
 ## 🤝 Let's collaborate
  
