@@ -3,6 +3,7 @@
 # Soham Chaudhuri
 
 **Machine learning researcher & engineer**
+
 Computer vision · generative models · speech · and the evaluation of all three
 
 
